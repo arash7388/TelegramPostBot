@@ -3,3 +3,7 @@ Repository.Data
 Repository.Model
 Repository.DAL
 packages
+/PostBot/bin
+/PostBot/obj
+/Common/obj/Debug
+/.vs/Instagram/v15/Server/sqlite3
