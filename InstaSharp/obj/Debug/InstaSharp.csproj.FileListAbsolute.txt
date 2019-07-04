@@ -1,0 +1,10 @@
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\bin\Debug\InstaSharp.dll.config
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\bin\Debug\InstaSharp.dll
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\bin\Debug\InstaSharp.pdb
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\obj\Debug\InstaSharp.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\obj\Debug\InstaSharp.csproj.CopyComplete
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\obj\Debug\InstaSharp.dll
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\obj\Debug\InstaSharp.pdb
+C:\Users\Arash\Documents\Visual Studio 2015\Projects\Instagram\InstaSharp\obj\Debug\InstaSharp.csprojAssemblyReference.cache
